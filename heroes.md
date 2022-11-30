@@ -1,4 +1,4 @@
-# Héroes 
+# Héroes :eggplant:
 
 ** Superman **
 ** Batman ** 
@@ -7,4 +7,3 @@
 ** Wonderwoman **
 ** Linterna Verde **
 ** Robin **
-:eggplant:
