@@ -1,4 +1,4 @@
-# Héroes :eggplant::sunglasses:
+# Héroes :sunglasses:
 
 **Superman**
 **Batman** 
